@@ -6,7 +6,7 @@
 
 ## Descripción general del sistema
 
-Llanquihue Tour es una aplicación desarrollada en Java que permite gestionar información de tours turísticos almacenados en un archivo de texto.
+Llanquihue Tour es un proyecto desarrollado en Java que permite gestionar información de tours turísticos almacenados en un archivo de texto.
 
 
 ## 🧱 Estructura general del proyecto
