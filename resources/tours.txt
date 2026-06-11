@@ -1,0 +1,5 @@
+San Pedro de Atacama;Antofagasta;100000
+Parque Nacional Torres del Paine;Magallanes;200000
+Pucon y Villarrica;La Araucania;300000
+Archipielago de Chiloe;Los Lagos;230000
+Valle de Cochamo;Los Lagos;150000
